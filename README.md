@@ -28,3 +28,8 @@ To use the API, you agree that:
 3. If used in an open-source application, there will be some type of icon or indicator with a link to the site (e.g. 'Courtesy of [CharHub](https://www.characterhub.org/)') in the portions of your application using the API.
 4. You agree to the Terms and Conditions and Privacy Policy of the site itself.
 5. You will not use any endpoint not explicitly documented in the OpenAPI specification (obviously I can't fully prevent this, but it's annoying and can cause data integrity issues).
+
+### Feedback/Questions/Requests
+Email: [lore@characterhub.org](mailto:lore@characterhub.org)
+
+Discord: [lloorree#4237](https://discordapp.com/users/lloorree#4237)
