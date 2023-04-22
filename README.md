@@ -32,4 +32,4 @@ To use the API, you agree that:
 ### Feedback/Questions/Requests
 Email: [lore@characterhub.org](mailto:lore@characterhub.org)
 
-Discord: [lloorree#4237](https://discordapp.com/users/lloorree#4237)
+Discord: [CharHub Server](https://discord.gg/5byUMguqDA) or [lloorree#4237](https://discordapp.com/users/lloorree#4237) or
