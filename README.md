@@ -1,8 +1,8 @@
 # CharHub API Documentation/Information
 
 ### OpenAPI Documentation
-The public-intended endpoints are documented at (https://api.characterhub.org/openapi)[https://api.characterhub.org/openapi]. 
-Currently, the only endpoints intended for public use are read-only operations on publicly accessible characters and lorebooks.
+The public-intended endpoints are documented at https://api.characterhub.org/openapi. 
+Currently, the only endpoints intended for public use are read-only operations on the latest version of publicly accessible characters and lorebooks.
 This will change in the coming weeks.
 
 ### Usage
@@ -17,3 +17,14 @@ curl -X 'POST'   'https://api.characterhub.org/api/characters/download'
   "version": "main"
 }' --output anonymous_example_char_main.png
 ```
+
+The process for lorebooks would be virtually the same. 
+
+
+### Terms/Conditions of Usage
+To use the API, you agree that:
+1. You won't be bulk-downloading definitions and re-serving them from a different server
+2. The API and definitions will not be used for any commercial purpose whatsoever
+3. If used in an open-source application, there will be some type of icon or indicator with a link to the site (e.g. 'Courtesy of [CharHub](https://www.characterhub.org/)') in the portions of your application using the API.
+4. You agree to the Terms and Conditions and Privacy Policy of the site itself
+5. You will not use any endpoint not explicitly documented in the OpenAPI specification
