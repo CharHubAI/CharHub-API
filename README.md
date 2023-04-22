@@ -25,7 +25,7 @@ The process for lorebooks would be virtually the same.
 To use the API, you agree that:
 1. You won't be bulk-downloading definitions and re-serving them from a different server.
 2. The API and definitions will not be used for any commercial purpose whatsoever.
-3. If used in an open-source application, there will be some type of icon or indicator with a link to the site (e.g. 'Courtesy of [CharHub](https://www.characterhub.org/)') in the portions of your application using the API.
+3. If used in an application, there will be some type of icon or indicator with a link to the site (e.g. 'Courtesy of [CharHub](https://www.characterhub.org/)') in the portions of your application using the API.
 4. You agree to the Terms and Conditions and Privacy Policy of the site itself.
 5. You will not use any endpoint not explicitly documented in the OpenAPI specification (obviously I can't fully prevent this, but it's annoying and can cause data integrity issues).
 
